@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sipay_Bootcamp_Busra_Sen
+build_property.RootNamespace = Sipay_Bootcamp_Busra_Sen
+build_property.ProjectDir = D:\gihub_clone\assignment-1\assignment-1-Bus-sen\Sipay_Bootcamp_Busra_Sen\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\gihub_clone\assignment-1\assignment-1-Bus-sen\Sipay_Bootcamp_Busra_Sen
+build_property._RazorSourceGeneratorDebug = 

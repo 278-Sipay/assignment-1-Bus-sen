@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sipay_Bootcamp_Busra_Sen.props" />
+</Project>
